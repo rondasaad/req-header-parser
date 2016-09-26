@@ -1,0 +1,19 @@
+{
+  "name": "req-header-parser",
+  "version": "1.0.0",
+  "description": "Request Header Parser Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rondasaad/req-header-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rondasaad/req-header-parser/issues"
+  },
+  "homepage": "https://github.com/rondasaad/req-header-parser#readme"
+}
